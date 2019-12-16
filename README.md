@@ -1,0 +1,16 @@
+# Solved problems
+
+* [1. Two Sum](https://leetcode.com/problems/two-sum/)
+* [268. Missing Number](https://leetcode.com/problems/missing-number/)
+* [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+* [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+* [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+* [202. Happy Number](https://leetcode.com/problems/happy-number/)
+* [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+* [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/)
+* [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+* [344. Reverse String](https://leetcode.com/problems/reverse-string/)
+* [155. Min Stack](https://leetcode.com/problems/min-stack/)
+* [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
+* [136. Single Number](https://leetcode.com/problems/single-number/)
+* [1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
