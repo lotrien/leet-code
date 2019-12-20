@@ -23,3 +23,8 @@
 * [112. Path Sum](https://leetcode.com/problems/path-sum/)
 * [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 * [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
+* [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
+* [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
+* [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
+* [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+* [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
