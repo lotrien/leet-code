@@ -30,5 +30,6 @@
 * [705. Design HashSet](https://leetcode.com/problems/design-hashset/)
 * [716. Max Stack](https://leetcode.com/problems/max-stack/)
 * [819. Most Common Word](https://leetcode.com/problems/most-common-word/)
+* [1086. High Five](https://leetcode.com/problems/high-five/)
 * [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)
 * [1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
