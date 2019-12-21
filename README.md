@@ -28,3 +28,6 @@
 * [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
 * [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 * [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
+* [270. Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/)
+* [404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)
+* [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)
