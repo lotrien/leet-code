@@ -1,5 +1,7 @@
 # Solved problems
 
+## Easy list:
+
 * [1. Two Sum](https://leetcode.com/problems/two-sum/)
 * [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/)
 * [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
@@ -48,3 +50,6 @@
 * [1086. High Five](https://leetcode.com/problems/high-five/)
 * [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)
 * [1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
+
+## Medium list:
+* [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
