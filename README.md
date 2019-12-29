@@ -29,6 +29,7 @@
 * [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
 * [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 * [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+* [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 * [246. Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/)
 * [252. Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)
 * [256. Paint House](https://leetcode.com/problems/paint-house/)
@@ -60,6 +61,11 @@
 * [1086. High Five](https://leetcode.com/problems/high-five/)
 * [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)
 * [1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
+* [1299. Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)
+* [1304. Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)
 
 ## Medium list:
 * [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
+* [1302. Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)
+* [1305. All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)
+* [1306. Jump Game III](https://leetcode.com/problems/jump-game-iii/)
