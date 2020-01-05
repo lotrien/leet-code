@@ -69,13 +69,17 @@
 
 ## Medium list:
 * [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
+* [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 * [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+* [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
 * [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
+* [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 * [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 * [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
 * [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
 * [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)
 * [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
+* [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)
 * [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
 * [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 * [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)
