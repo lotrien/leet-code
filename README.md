@@ -16,6 +16,8 @@
 * [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
 * [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 * [112. Path Sum](https://leetcode.com/problems/path-sum/)
+* [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
+* [119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)
 * [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 * [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 * [136. Single Number](https://leetcode.com/problems/single-number/)
@@ -72,6 +74,7 @@
 
 ## Medium list:
 * [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
+* [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 * [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 * [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 * [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
