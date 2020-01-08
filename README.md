@@ -11,6 +11,7 @@
 * [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 * [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 * [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+* [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
 * [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 * [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
 * [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
@@ -83,9 +84,11 @@
 * [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 * [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 * [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
+* [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 * [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
 * [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)
 * [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
+* [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
 * [146. LRU Cache](https://leetcode.com/problems/lru-cache/)
 * [159. Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/)
 * [173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)
@@ -104,3 +107,6 @@
 * [1305. All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)
 * [1306. Jump Game III](https://leetcode.com/problems/jump-game-iii/)
 * [1310. XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray/)
+
+## Hard list:
+* [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
