@@ -95,6 +95,7 @@
 * [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)
 * [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
 * [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+* [250. Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees/)
 * [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)
 * [536. Construct Binary Tree from String](https://leetcode.com/problems/construct-binary-tree-from-string/)
 * [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)
