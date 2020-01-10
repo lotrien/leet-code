@@ -81,6 +81,7 @@
 * [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
 * [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
 * [46. Permutations](https://leetcode.com/problems/permutations/)
+* [50. Pow(x, n)](https://leetcode.com/problems/powx-n/)
 * [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 * [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 * [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
