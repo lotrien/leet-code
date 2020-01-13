@@ -44,6 +44,7 @@
 * [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 * [344. Reverse String](https://leetcode.com/problems/reverse-string/)
 * [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
+& [346. Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/)
 * [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 * [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
 * [404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)
