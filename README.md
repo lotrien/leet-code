@@ -98,6 +98,7 @@
 * [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
 * [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
 * [146. LRU Cache](https://leetcode.com/problems/lru-cache/)
+* [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
 * [159. Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/)
 * [173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)
 * [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)
