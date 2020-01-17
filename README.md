@@ -108,6 +108,7 @@
 * [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 * [250. Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees/)
 * [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)
+* [394. Decode String](https://leetcode.com/problems/decode-string/)
 * [536. Construct Binary Tree from String](https://leetcode.com/problems/construct-binary-tree-from-string/)
 * [622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)
 * [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)
