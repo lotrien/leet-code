@@ -97,6 +97,7 @@
 * [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
 * [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)
 * [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
+* [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
 * [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
 * [146. LRU Cache](https://leetcode.com/problems/lru-cache/)
 * [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
@@ -114,6 +115,7 @@
 * [622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)
 * [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)
 * [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)
+* [707. Design Linked List](https://leetcode.com/problems/design-linked-list/)
 * [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
 * [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)
 * [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)
@@ -125,6 +127,7 @@
 * [1306. Jump Game III](https://leetcode.com/problems/jump-game-iii/)
 * [1310. XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray/)
 * [1324. Print Words Vertically](https://leetcode.com/problems/print-words-vertically/)
+* [1325. Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/)
 * [5145. Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/)
 
 ## Hard list:
