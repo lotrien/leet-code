@@ -46,6 +46,8 @@
 * [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
 & [346. Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/)
 * [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
+* [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
+* [359. Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)
 * [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
 * [404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)
 * [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
@@ -55,6 +57,7 @@
 * [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
 * [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
 * [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
+* [599. Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)
 * [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)
 * [671. Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)
 * [686. Repeated String Match](https://leetcode.com/problems/repeated-string-match/)
@@ -78,6 +81,7 @@
 * [1309. Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/)
 * [1317. Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/)
 * [1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)
+* [1331. Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/)
 * [5143. Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)
 
 ## Medium list:
@@ -88,6 +92,7 @@
 * [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
 * [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
 * [46. Permutations](https://leetcode.com/problems/permutations/)
+* [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 * [50. Pow(x, n)](https://leetcode.com/problems/powx-n/)
 * [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 * [61. Rotate List](https://leetcode.com/problems/rotate-list/)
@@ -132,6 +137,7 @@
 * [1310. XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray/)
 * [1324. Print Words Vertically](https://leetcode.com/problems/print-words-vertically/)
 * [1325. Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/)
+* [1328. Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/)
 * [5145. Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/)
 
 ## Hard list:
