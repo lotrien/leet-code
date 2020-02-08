@@ -88,6 +88,7 @@
 * [1317. Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/)
 * [1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)
 * [1331. Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/)
+* [1342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
 * [5143. Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)
 
 ## Medium list:
@@ -150,6 +151,8 @@
 * [1324. Print Words Vertically](https://leetcode.com/problems/print-words-vertically/)
 * [1325. Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/)
 * [1328. Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/)
+* [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/)
+* [1344. Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/)
 * [5145. Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/)
 
 ## Hard list:
