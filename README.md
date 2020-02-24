@@ -15,6 +15,7 @@
 * [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 * [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
 * [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+* [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
 * [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
 * [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
 * [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
@@ -29,6 +30,7 @@
 * [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
 * [167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 * [170. Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/)
+* [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
 * [198. House Robber](https://leetcode.com/problems/house-robber/)
 * [202. Happy Number](https://leetcode.com/problems/happy-number/)
 * [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
@@ -55,6 +57,7 @@
 * [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 * [359. Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)
 * [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
+* [389. Find the Difference](https://leetcode.com/problems/find-the-difference/)
 * [404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)
 * [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
 * [437. Path Sum III](https://leetcode.com/problems/path-sum-iii/)
@@ -95,6 +98,7 @@
 * [1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)
 * [1331. Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/)
 * [1342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
+* [1356. Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)
 * [5143. Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)
 
 ## Medium list:
@@ -137,6 +141,7 @@
 * [288. Unique Word Abbreviation](https://leetcode.com/problems/unique-word-abbreviation/)
 * [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)
 * [379. Design Phone Directory](https://leetcode.com/problems/design-phone-directory/)
+* [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)
 * [394. Decode String](https://leetcode.com/problems/decode-string/)
 * [430. Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)
 * [536. Construct Binary Tree from String](https://leetcode.com/problems/construct-binary-tree-from-string/)
@@ -165,6 +170,7 @@
 * [1328. Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/)
 * [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/)
 * [1344. Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/)
+* [1357. Apply Discount Every n Orders](https://leetcode.com/problems/apply-discount-every-n-orders/)
 * [5145. Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/)
 
 ## Hard list:
