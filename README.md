@@ -175,6 +175,3 @@
 * [1344. Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/)
 * [1357. Apply Discount Every n Orders](https://leetcode.com/problems/apply-discount-every-n-orders/)
 * [5145. Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/)
-
-## Hard list:
-* [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)

@@ -16,7 +16,6 @@ var sumEvenGrandparent = function(root) {
   let queue = [{ node: root }];
 
   while (queue.length) {
-    debugger;
     const { node, evenParent = false, evenGrand = false } = queue.shift();
 
     if (evenGrand) {
